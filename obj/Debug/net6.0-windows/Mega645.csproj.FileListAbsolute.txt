@@ -1,0 +1,16 @@
+D:\projectsNet\Mega645\bin\Debug\net6.0-windows\Mega645.exe
+D:\projectsNet\Mega645\bin\Debug\net6.0-windows\Mega645.deps.json
+D:\projectsNet\Mega645\bin\Debug\net6.0-windows\Mega645.runtimeconfig.json
+D:\projectsNet\Mega645\bin\Debug\net6.0-windows\Mega645.dll
+D:\projectsNet\Mega645\bin\Debug\net6.0-windows\Mega645.pdb
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.Form1.resources
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.csproj.GenerateResource.cache
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.AssemblyInfoInputs.cache
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.AssemblyInfo.cs
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.csproj.CoreCompileInputs.cache
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.dll
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\refint\Mega645.dll
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.pdb
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\Mega645.genruntimeconfig.cache
+D:\projectsNet\Mega645\obj\Debug\net6.0-windows\ref\Mega645.dll
